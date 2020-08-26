@@ -1,0 +1,19 @@
+body{
+    background: black;
+}
+h1{
+    color: cadetblue;
+    text-transform: uppercase;
+}
+#time{
+    margin: 250px;
+    font-size: 80px;
+    color: aquamarine;
+    font-family: Orbitron;
+}
+.container{
+    text-align: center;
+}
+#footer{
+    color: aquamarine;
+}
