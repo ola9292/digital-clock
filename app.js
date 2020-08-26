@@ -11,7 +11,7 @@ if(h>12){
     session = "PM";
 }
 
-time.innerHTML =  h + ":" + m + ":" + s + " " + session; 
+time.innerHTML =  h +  ":"  + m +  ":"  + s + " " + session; 
 setTimeout(showTime, 1000);
 }
 showTime();
